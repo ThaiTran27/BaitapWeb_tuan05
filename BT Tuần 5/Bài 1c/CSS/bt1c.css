@@ -1,0 +1,17 @@
+.custom-bg-light-green {
+  background-color: #a3d9a5;
+}
+
+.custom-bg-light-blue {
+  background-color: #6bbdf0;
+}
+
+.custom-bg-text {
+  background-color: #f0d36b;
+  color: rgb(111, 60, 9) ;
+}
+
+.avatar {
+  width: 60px;
+  height: 60px;
+}
